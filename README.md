@@ -2,4 +2,4 @@
 
 This is my first Git Repository.
 <br>
-Author - Rajnandni Goyal (Python)
+Author - Rajnandni Goyal (python)
